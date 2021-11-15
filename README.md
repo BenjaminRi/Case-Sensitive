@@ -1,2 +1,2 @@
-This repository breaks on Windows due to case insensitivity.
+This repository does not break on Windows due to case insensitivity.
 
